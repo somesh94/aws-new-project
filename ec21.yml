@@ -1,5 +1,4 @@
-		
-	---
+---
 - name: Launch EC2 Instance in AWS
   hosts: localhost
   connection: local
